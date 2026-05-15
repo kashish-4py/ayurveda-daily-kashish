@@ -83,5 +83,6 @@
       border-radius: 50px;
       cursor: pointer;
       transition: background 0.2s, transform 0.15s;
+      text-decoration: none;
     }
-    .nav-cta:hover { background: var(--fern); transform: translateY(-1px); }
+    .nav-cta:hover { background: var(--fern); transform: translateY(-1px);}
